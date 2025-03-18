@@ -16,7 +16,7 @@ if (!response.ok) {
 }
 
 const result: TopSearch = await response.json();
-
+console.log(TopSearch);
 const words = result.top_search.words;
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
