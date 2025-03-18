@@ -48,7 +48,7 @@ topSearchItems.forEach((item) => {
 
   if (titleElement) {
     words.push({
-      title: titleElement.textContent.trim()
+      title: titleElement.textContent.trim(),
     });
   }
 });
