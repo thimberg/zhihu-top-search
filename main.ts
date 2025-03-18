@@ -30,14 +30,14 @@ console.log(html.slice(0, 1000));  // HTMLの先頭1000文字を表示
 
 // 必要なデータを含む要素を見つける
 // これはHTMLの中身を目視で確認してから適切なCSSセレクタを設定するのに役立ちます
-const scriptElements = doc.querySelectorAll('script');
+const scriptElements = doc.querySelectorAll("script");
 scriptElements.forEach((element, index) => {
   console.log(`Script ${index}:`);
   console.log(element.textContent.slice(0, 1000));  // 先頭1000文字を表示
 });
 
 // 上記の内容を目視で確認して、適切な要素を選択します（仮に#data とします）
-const dataElement = doc.querySelector('#data');
+const dataElement = doc.querySelector("#data");
 if (!dataElement) {
   console.error("No specific data element found.");
   Deno.exit(-1);
