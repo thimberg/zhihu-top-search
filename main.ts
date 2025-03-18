@@ -72,4 +72,4 @@ const archivePath = join("archives", `${yyyyMMdd}.md`);
 await Deno.writeTextFile(archivePath, archiveText);
 
 // 手動導出のチェックに必要（エラーやデバッグの回避）
-console.log('Process completed successfully!');
+console.log("Process completed successfully!");
