@@ -10,7 +10,7 @@ import { createArchive, createReadme, mergeWords } from "./utils.ts";
 const response = await fetch("https://www.zhihu.com/api/v4/search/top_search");
 
 if (!response.ok) {
-  console.error("zhihu.com Access Error!";
+  console.error("zhihu.com Access Error!");
   console.error(response.statusText);
   Deno.exit(-1);
 }
