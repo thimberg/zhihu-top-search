@@ -59,7 +59,7 @@ if (words.length === 0) {
   Deno.exit(-1);
 }
 
-//console.log(words);
+console.log(words);
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const year = yyyyMMdd.substring(0, 4);
