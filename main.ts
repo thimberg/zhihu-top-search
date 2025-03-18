@@ -7,7 +7,7 @@ import { exists } from "std/fs/mod.ts";
 import type { SearchWord, TopSearch } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
 
-const response = await fetch("https://www.zhihu.com/api/v4/search/top_search");
+const response = await fetch("https://www.zhihu.com/billboard");
 
 if (!response.ok) {
   console.error("zhihu.com Access Error!");
