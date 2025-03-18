@@ -33,7 +33,7 @@ if (!doc) {
 const scriptElements = doc.querySelectorAll("script");
 scriptElements.forEach((element, index) => {
   console.log(`Script ${index}:`);
-//  console.log(element.textContent.slice(0, 1000));  // 先頭1000文字を表示
+  //  console.log(element.textContent.slice(0, 1000));  // 先頭1000文字を表示
 });
 
 // 上記の内容を目視で確認して、適切な要素を選択します（仮に#data とします）
