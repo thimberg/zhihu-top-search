@@ -37,7 +37,7 @@ scriptElements.forEach((element, index) => {
 });
 
 // 上記の内容を目視で確認して、適切な要素を選択します（仮に#data とします）
-const dataElement = doc.querySelector("#data");
+const dataElement = doc.querySelector("#HotList-itemTitle");
 if (!dataElement) {
   console.error("No specific data element found.");
   Deno.exit(-1);
