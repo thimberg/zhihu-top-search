@@ -25,19 +25,30 @@ if (!doc) {
   Deno.exit(-1);
 }
 
-// 必要なデータを抽出する
-const scriptElement = doc.querySelector('script[type="application/json"]');
-if (!scriptElement) {
-  console.error("No JSON script element found.");
+// デバッグ: HTMLの最初の一部分を表示して、データの場所を確認する
+console.log(html.slice(0, 1000));  // HTMLの先頭1000文字を表示
+
+// 必要なデータを含む要素を見つける
+// これはHTMLの中身を目視で確認してから適切なCSSセレクタを設定するのに役立ちます
+const scriptElements = doc.querySelectorAll('script');
+scriptElements.forEach((element, index) => {
+  console.log(`Script ${index}:`);
+  console.log(element.textContent.slice(0, 1000));  // 先頭1000文字を表示
+});
+
+// 上記の内容を目視で確認して、適切な要素を選択します（仮に#data とします）
+const dataElement = doc.querySelector('#data');
+if (!dataElement) {
+  console.error("No specific data element found.");
   Deno.exit(-1);
 }
 
-const jsonContent = scriptElement.textContent;
+const jsonContent = dataElement.textContent;
 let result: TopSearch;
 try {
   result = JSON.parse(jsonContent);
 } catch (e) {
-  console.error("Failed to parse JSON from script element.");
+  console.error("Failed to parse JSON from data element.");
   console.error(e);
   Deno.exit(-1);
 }
