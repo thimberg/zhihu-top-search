@@ -1,7 +1,6 @@
 # zhihu-top-search
 
-
-知乎热搜榜
+知乎热搜榜，按天[归档](./archives)。
 
 ## 相关项目
 
@@ -11,6 +10,7 @@
 
 
 ## 今日热搜榜
+
 <!-- BEGIN -->
 <!-- 最后更新时间 Tue Mar 18 2025 11:23:37 GMT+0800 (China Standard Time) -->
 
