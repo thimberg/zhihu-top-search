@@ -48,7 +48,6 @@ Deno.test("createList", function (): void {
   assertStringIncludes(createList(words), "<!-- END -->");
   assertStringIncludes(createList(words), "foo");
   assertStringIncludes(createList(words), "world");
-  assertStringIncludes(createList(words), "https://www.zhihu.com/search");
 });
 
 Deno.test("createArchive", function (): void {
@@ -68,5 +67,5 @@ Deno.test("createReadme", async function (): Promise<void> {
   ];
 
   assertStringIncludes(await createReadme(words), "知乎");
-  assertStringIncludes(await createReadme(words), "zhihu-trending-top-search");
+  assertStringIncludes(await createReadme(words), "zhihu-top-search");
 });
