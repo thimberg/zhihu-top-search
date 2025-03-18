@@ -15,9 +15,39 @@ if (!response.ok) {
   Deno.exit(-1);
 }
 
-const result: TopSearch = await response.json();
-console.log(TopSearch);
+const html = await response.text();
+
+// HTMLをパースする
+const doc = new DOMParser().parseFromString(html, "text/html");
+if (!doc) {
+  console.error("Failed to parse zhihu.com HTML.");
+  Deno.exit(-1);
+}
+
+// 必要なデータを抽出する
+const scriptElement = doc.querySelector('script[type="application/json"]');
+if (!scriptElement) {
+  console.error("No JSON script element found.");
+  Deno.exit(-1);
+}
+
+const jsonContent = scriptElement.textContent;
+let result: TopSearch;
+try {
+  result = JSON.parse(jsonContent);
+} catch (e) {
+  console.error("Failed to parse JSON from script element.");
+  console.error(e);
+  Deno.exit(-1);
+}
+
 const words = result.top_search.words;
+
+if (words.length === 0) {
+  console.error("No words found in the top search results.");
+}
+
+console.log(words);
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw", `${yyyyMMdd}.json`);
@@ -28,15 +58,18 @@ if (await exists(fullPath)) {
   wordsAlreadyDownload = JSON.parse(content);
 }
 
-// 保存原始数据
+// 保存原始データ
 const wordsAll = mergeWords(words, wordsAlreadyDownload);
-await Deno.writeTextFile(fullPath, JSON.stringify(wordsAll));
+await Deno.writeTextFile(fullPath, JSON.stringify(wordsAll, null, 2));
 
-// 更新 README.md
+// README.md 更新
 const readme = await createReadme(wordsAll);
 await Deno.writeTextFile("./README.md", readme);
 
-// 更新 archives
+// archives 更新
 const archiveText = createArchive(wordsAll, yyyyMMdd);
 const archivePath = join("archives", `${yyyyMMdd}.md`);
 await Deno.writeTextFile(archivePath, archiveText);
+
+// 手動導出のチェックに必要（エラーやデバッグの回避）
+console.log('Process completed successfully!');
