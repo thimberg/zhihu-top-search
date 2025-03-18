@@ -1,5 +1,6 @@
 #!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
 
+import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
