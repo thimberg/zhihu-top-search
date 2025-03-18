@@ -39,16 +39,16 @@ if (topSearchItems.length === 0) {
   Deno.exit(-1);
 }
 
+console.log(topSearchItems.length);
+
 // 各検索ワード情報を抽出
 const words: SearchWord[] = [];
 topSearchItems.forEach((item) => {
   const titleElement = item.querySelector(".HotList-itemTitle");
-  const descElement = item.querySelector(".HotList-itemExcerpt");
 
-  if (titleElement && descElement) {
+  if (titleElement) {
     words.push({
-      title: titleElement.textContent.trim(),
-      desc: descElement.textContent.trim(),
+      title: titleElement.textContent.trim()
     });
   }
 });
