@@ -25,38 +25,37 @@ if (!doc) {
   Deno.exit(-1);
 }
 
-// デバッグ: HTMLの最初の一部分を表示して、データの場所を確認する
-//console.log(html.slice(0, 1000));  // HTMLの先頭1000文字を表示
-
-// 必要なデータを含む要素を見つける
-// これはHTMLの中身を目視で確認してから適切なCSSセレクタを設定するのに役立ちます
+// デバッグ用: script要素の内容をデバッグで表示
 const scriptElements = doc.querySelectorAll("script");
 scriptElements.forEach((element, index) => {
   console.log(`Script ${index}:`);
-  //  console.log(element.textContent.slice(0, 1000));  // 先頭1000文字を表示
+  // console.log(element.textContent.slice(0, 1000));  // 先頭1000文字を表示
 });
 
-// 上記の内容を目視で確認して、適切な要素を選択します（仮に#data とします）
-const dataElement = doc.querySelector(".HotList-itemTitle");
-if (!dataElement) {
-  console.error("No specific data element found.");
+// 必要なデータを含む要素を見つける
+const topSearchItems = doc.querySelectorAll(".HotList-item");
+if (topSearchItems.length === 0) {
+  console.error("No top search items found.");
   Deno.exit(-1);
 }
 
-const jsonContent = dataElement.textContent;
-let result: TopSearch;
-try {
-  result = JSON.parse(jsonContent);
-} catch (e) {
-  console.error("Failed to parse JSON from data element.");
-  console.error(e);
-  Deno.exit(-1);
-}
+// 各検索ワード情報を抽出
+const words: SearchWord[] = [];
+topSearchItems.forEach((item) => {
+  const titleElement = item.querySelector(".HotList-itemTitle");
+  const descElement = item.querySelector(".HotList-itemExcerpt");
 
-const words = result.top_search.words;
+  if (titleElement && descElement) {
+    words.push({
+      title: titleElement.textContent.trim(),
+      desc: descElement.textContent.trim(),
+    });
+  }
+});
 
 if (words.length === 0) {
-  console.error("No words found in the top search results.");
+  console.error("No search words found after parsing.");
+  Deno.exit(-1);
 }
 
 console.log(words);
