@@ -4,6 +4,7 @@ import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
+import { ensureDir } from "std/fs/mod.ts";
 
 import type { SearchWord, TopSearch } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
@@ -58,10 +59,13 @@ if (words.length === 0) {
   Deno.exit(-1);
 }
 
-console.log(words);
+//console.log(words);
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
+const year = yyyyMMdd.substring(0, 4);
 const fullPath = join("raw", `${yyyyMMdd}.json`);
+
+await ensureDir("raw");
 
 let wordsAlreadyDownload: SearchWord[] = [];
 if (await exists(fullPath)) {
@@ -79,7 +83,9 @@ await Deno.writeTextFile("./README.md", readme);
 
 // archives 更新
 const archiveText = createArchive(wordsAll, yyyyMMdd);
-const archivePath = join("archives", `${yyyyMMdd}.md`);
+const archiveDir = join("archives", year);
+const archivePath = join(archiveDir, `${yyyyMMdd}.md`);
+await ensureDir(archiveDir);
 await Deno.writeTextFile(archivePath, archiveText);
 
 // 手動導出のチェックに必要（エラーやデバッグの回避）
