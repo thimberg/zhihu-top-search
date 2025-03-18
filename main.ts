@@ -33,7 +33,7 @@ scriptElements.forEach((element, index) => {
 });
 
 // 必要なデータを含む要素を見つける
-const topSearchItems = doc.querySelectorAll(".HotList-item");
+const topSearchItems = doc.querySelectorAll(".HotList-itemBody");
 if (topSearchItems.length === 0) {
   console.error("No top search items found.");
   Deno.exit(-1);
