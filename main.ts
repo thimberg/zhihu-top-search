@@ -27,6 +27,7 @@ if (!response.ok) {
 
 const result: TopSearch = await response.json();
 
+const words: SearchWord[] = [];
 result.forEach((item) => {
    const title = item.target.title;
    const url = item.target.url;
