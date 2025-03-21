@@ -15,7 +15,7 @@ const url = "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30
 // ヘッダー設定
 const headers = {
   "Cookie": cookie,
-  "User-Agent": "Mozilla/5.0"
+  "User-Agent": "Mozilla/5.0",
 };
 
 const response = await fetch(url, { headers });
