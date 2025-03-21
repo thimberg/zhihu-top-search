@@ -9,7 +9,7 @@ import { ensureDir } from "std/fs/mod.ts";
 import type { SearchWord, TopSearch } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
 
-const response = await fetch("https://www.zhihu.com/billboard");
+const response = await fetch("https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30");
 
 if (!response.ok) {
   console.error("zhihu.com Access Error!");
@@ -17,42 +17,9 @@ if (!response.ok) {
   Deno.exit(-1);
 }
 
-const html = await response.text();
+const result: TopSearch = await response.json();
 
-// HTMLをパースする
-const doc = new DOMParser().parseFromString(html, "text/html");
-if (!doc) {
-  console.error("Failed to parse zhihu.com HTML.");
-  Deno.exit(-1);
-}
-
-// デバッグ用: script要素の内容をデバッグで表示
-const scriptElements = doc.querySelectorAll("script");
-scriptElements.forEach((element, index) => {
-  console.log(`Script ${index}:`);
-  // console.log(element.textContent.slice(0, 1000));  // 先頭1000文字を表示
-});
-
-// 必要なデータを含む要素を見つける
-const topSearchItems = doc.querySelectorAll(".HotList-itemBody");
-if (topSearchItems.length === 0) {
-  console.error("No top search items found.");
-  Deno.exit(-1);
-}
-
-console.log(topSearchItems.length);
-
-// 各検索ワード情報を抽出
-const words: SearchWord[] = [];
-topSearchItems.forEach((item) => {
-  const titleElement = item.querySelector(".HotList-itemTitle");
-
-  if (titleElement) {
-    words.push({
-      title: titleElement.textContent.trim(),
-    });
-  }
-});
+const words = result.top_search.words;
 
 if (words.length === 0) {
   console.error("No search words found after parsing.");
