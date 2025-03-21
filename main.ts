@@ -32,6 +32,7 @@ result.forEach((item) => {
    const url = item.target.url;
   
    if (title && url) {
+
      words.push({
        title: title.trim(),
        utl: url.trim(),
