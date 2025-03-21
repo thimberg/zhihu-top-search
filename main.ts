@@ -27,6 +27,18 @@ if (!response.ok) {
 
 const result: TopSearch = await response.json();
 
+result.forEach((item) => {
+   const title = item.target.title;
+   const url = item.target.url;
+  
+   if (title && url) {
+     words.push({
+       title: title.trim(),
+       utl: url.trim(),
+     });
+   }
+ });
+
 const words = result.data;
 
 if (words.length === 0) {
