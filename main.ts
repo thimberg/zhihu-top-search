@@ -35,8 +35,8 @@ result.forEach((item) => {
    if (title && url) {
 
      words.push({
-       display_query: title.trim(),
-       query: url.trim(),
+       display_query: title,
+       query: url,
      });
    }
  });
