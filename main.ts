@@ -19,7 +19,7 @@ if (!response.ok) {
 
 const result: TopSearch = await response.json();
 
-const words = result.top_search.words;
+const words = result.top_search.data;
 
 if (words.length === 0) {
   console.error("No search words found after parsing.");
