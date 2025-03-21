@@ -9,7 +9,16 @@ import { ensureDir } from "std/fs/mod.ts";
 import type { SearchWord, TopSearch } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
 
-const response = await fetch("https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30");
+// APIエンドポイント
+const url = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30';
+
+// ヘッダー設定
+const headers = {
+  'Cookie': cookie,
+  'User-Agent': 'Mozilla/5.0'
+};
+
+const response = await fetch(url, { headers });
 
 if (!response.ok) {
   console.error("zhihu.com Access Error!");
@@ -19,7 +28,7 @@ if (!response.ok) {
 
 const result: TopSearch = await response.json();
 
-const words = result.top_search.data;
+const words = result.data;
 
 if (words.length === 0) {
   console.error("No search words found after parsing.");
