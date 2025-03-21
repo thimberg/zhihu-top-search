@@ -31,7 +31,7 @@ const words: SearchWord[] = [];
 result.forEach((item) => {
    const title = item.target.title;
    const url = item.target.url;
-  
+
    if (title && url) {
 
      words.push({
@@ -41,7 +41,7 @@ result.forEach((item) => {
    }
  });
 
-const words = result.data;
+//const words = result.data;
 
 if (words.length === 0) {
   console.error("No search words found after parsing.");
