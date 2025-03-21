@@ -10,12 +10,12 @@ import type { SearchWord, TopSearch } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
 
 // APIエンドポイント
-const url = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30';
+const url = "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30";
 
 // ヘッダー設定
 const headers = {
-  'Cookie': cookie,
-  'User-Agent': 'Mozilla/5.0'
+  "Cookie": cookie,
+  "User-Agent": "Mozilla/5.0"
 };
 
 const response = await fetch(url, { headers });
