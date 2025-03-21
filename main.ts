@@ -29,17 +29,17 @@ const result = await response.json();
 
 const words: SearchWord[] = [];
 result.forEach((item) => {
-   const title = item.target.title;
-   const url = item.target.url;
+  const title = item.target.title;
+  const url = item.target.url;
 
-   if (title && url) {
-
-     words.push({
-       display_query: title,
-       query: url,
-     });
-   }
- });
+  console.log(title);
+  if (title && url) {
+    words.push({
+      display_query: title,
+      query: url,
+    });
+  }
+});
 
 //const words = result.data;
 
@@ -48,7 +48,7 @@ if (words.length === 0) {
   Deno.exit(-1);
 }
 
-console.log(words);
+//console.log(words);
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const year = yyyyMMdd.substring(0, 4);
