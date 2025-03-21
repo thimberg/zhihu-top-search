@@ -25,7 +25,7 @@ if (!response.ok) {
   Deno.exit(-1);
 }
 
-const result: TopSearch = await response.json();
+const result = await response.json();
 
 const words: SearchWord[] = [];
 result.forEach((item) => {
