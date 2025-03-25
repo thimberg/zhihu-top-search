@@ -108,12 +108,20 @@
     "display_query": "如何评价F1车手卡洛斯·塞恩斯（小塞恩斯）？"
   },
   {
-    "query": "https://api.zhihu.com/questions/15483265712",
-    "display_query": "是什么让你读下去了《卡拉马佐夫兄弟》？"
+    "query": "https://api.zhihu.com/questions/15498633855",
+    "display_query": "如何评价中科院计算所博士生郭帅一作ICASSP 2025论文抄袭TMI 2024论文？"
   },
   {
     "query": "https://api.zhihu.com/questions/14170740992",
     "display_query": "面试被问「为什么选择我们公司」，如何回答才能加分？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/15540927075",
+    "display_query": "黄子韬称准备跨界做卫生巾，他能做好吗？哪些关键环节要特别注意？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/15483265712",
+    "display_query": "是什么让你读下去了《卡拉马佐夫兄弟》？"
   },
   {
     "query": "https://api.zhihu.com/questions/15623616064",
