@@ -4,76 +4,124 @@
     "display_query": "如何评价任天堂新游戏机 Switch2 ？与第一代相比，有哪些亮点？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1890675416567641364",
-    "display_query": "东部战区位台湾海峡中、南海域组织「海峡雷霆-2025A」演练，由联合利剑变为海峡雷霆，意味着什么？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/664339031",
-    "display_query": "真有人一松开油门就把脚放在刹车上吗？"
-  },
-  {
     "query": "https://api.zhihu.com/questions/1890105476693332026",
     "display_query": "张雪峰公司2025届志愿填报服务开抢，售价约一万余元，上架20分钟多省份名额已售罄，如何看待这一现象？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890844580183782722",
+    "display_query": "东部战区圆满完成位台岛周边联合演训各项任务，此次演训收获了哪些成果？有哪些亮点值得关注？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890892491852587539",
+    "display_query": "任天堂Switch2日区版价格约为2400元人民币，但日版将会锁区，如何理解任天堂的这一决定？"
   },
   {
     "query": "https://api.zhihu.com/questions/486092829",
     "display_query": "美国影视剧中出现过充满魅力的男性华人、华裔形象吗？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1888685528414660511",
-    "display_query": "黄金价格会不会迎来暴跌？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/1890552621212852632",
-    "display_query": "小米称，行业同配置的 AEB 功能，都不响应锥桶水马石头动物等障碍物，这是行业漏洞吗？有必要响应吗？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/1890465084914000903",
-    "display_query": "比亚迪前 3 个月新能源汽车销量突破 100 万，这一数据意味着什么？背后有何推动因素？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/1889591139331432596",
-    "display_query": "《乡村爱情》赵玉田扮演者吴云飞涉嫌卖假原切羊肉，带货厂家承认羊肉造假想拿钱平事，消费者该怎样维权？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/1890105053098009745",
-    "display_query": "「甲亢哥」来华直播登上多国社媒榜单热门，为什么这种「体验」形成的反差能让外国人这么惊讶？"
+    "query": "https://api.zhihu.com/questions/1890995536515019291",
+    "display_query": "美国宣布国家紧急状态，对所有国家征收 10% 的「基准关税」，会对全球贸易带来哪些影响？"
   },
   {
     "query": "https://api.zhihu.com/questions/1890752343743639634",
     "display_query": "如何评价知名网络主播「甲亢哥」Speed 于4月2日在重庆的直播？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1890165471204045597",
-    "display_query": "网友投诉在山姆买的莲雾中吃出蠕动活虫，客服称系正常情况，如何看待此事？"
+    "query": "https://api.zhihu.com/questions/1888685528414660511",
+    "display_query": "黄金价格会不会迎来暴跌？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1891030167939408793",
+    "display_query": "美国对欧盟实施 20% 对等关税，对日本实施 24% 的对等关税，什么是对等关税？会带来哪些影响？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890105053098009745",
+    "display_query": "「甲亢哥」来华直播登上多国社媒榜单热门，为什么这种「体验」形成的反差能让外国人这么惊讶？"
   },
   {
     "query": "https://api.zhihu.com/questions/1888599018352894736",
     "display_query": "用你现在的英语水平翻译这句话「He is a zero」，该怎么翻译？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1888989861488345783",
-    "display_query": "刚果河水量远超长江，为什么却连一座大型水电站都没有？"
+    "query": "https://api.zhihu.com/questions/15099588773",
+    "display_query": "Python小组性能优化选C++还是Rust？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1890353242971530961",
-    "display_query": "中国联通上线 iPhone eSIM 网站，我们离普及 esim 还有多远？目前存在哪些难点？"
+    "query": "https://api.zhihu.com/questions/664339031",
+    "display_query": "真有人一松开油门就把脚放在刹车上吗？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1890306808121357889",
-    "display_query": "美国制裁 6 名中国官员，中方回应「必将采取有力措施坚决反制」，哪些信息值得关注？"
+    "query": "https://api.zhihu.com/questions/1889591139331432596",
+    "display_query": "《乡村爱情》赵玉田扮演者吴云飞涉嫌卖假原切羊肉，带货厂家承认羊肉造假想拿钱平事，消费者该怎样维权？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1891027827157071017",
+    "display_query": "美国宣布国家紧急状态，这到底是一种什么状态？全面征收「基准关税」，当前国际社会和资本市场是什么反应？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/13382774766",
+    "display_query": "复试前联系了一位导师，但现在想换个其他方向导师可以吗?"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/11947772300",
+    "display_query": "朱九真为什么没有看上张无忌?"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890165471204045597",
+    "display_query": "网友投诉在山姆买的莲雾中吃出蠕动活虫，客服称系正常情况，如何看待此事？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890465084914000903",
+    "display_query": "比亚迪前 3 个月新能源汽车销量突破 100 万，这一数据意味着什么？背后有何推动因素？"
   },
   {
     "query": "https://api.zhihu.com/questions/1890718764514927351",
     "display_query": "京东宣布达达员工今年升级至 19 薪，明年升级至 20 薪，这在业内处于什么水平？涨薪会带来哪些影响？"
   },
   {
+    "query": "https://api.zhihu.com/questions/1890419158094698040",
+    "display_query": "马斯克宣布将辞职，他辞职的最关键原因是什么？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890353242971530961",
+    "display_query": "中国联通上线 iPhone eSIM 网站，我们离普及 esim 还有多远？目前存在哪些难点？"
+  },
+  {
     "query": "https://api.zhihu.com/questions/1890112503347912883",
     "display_query": "前奥运冠军、著名田径运动员王军霞退役后首次参赛半马跑出 1 小时  35 分，你对该成绩有哪些评价？"
   },
   {
+    "query": "https://api.zhihu.com/questions/1888989861488345783",
+    "display_query": "刚果河水量远超长江，为什么却连一座大型水电站都没有？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890675416567641364",
+    "display_query": "东部战区位台湾海峡中、南海域组织「海峡雷霆-2025A」演练，由联合利剑变为海峡雷霆，意味着什么？"
+  },
+  {
     "query": "https://api.zhihu.com/questions/1889412923639718478",
     "display_query": "如何评价姚晨、贾静雯主演的医美题材电视剧《以美之名》？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890306808121357889",
+    "display_query": "美国制裁 6 名中国官员，中方回应「必将采取有力措施坚决反制」，哪些信息值得关注？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890067322066133888",
+    "display_query": "「AI 识别眼力赛」文字组开赛！你能否分辨出哪个由 AI 生成，哪个是人的创作？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1888738951449264852",
+    "display_query": "长城为什么不造轿车而推出了重卡?"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1889986059170963534",
+    "display_query": "20 岁中国女生留学第 9 天跳楼身亡，遭恐吓深陷骗局不堪压力，留学生在海外要提高哪些防骗意识？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890552621212852632",
+    "display_query": "小米称，行业同配置的 AEB 功能，都不响应锥桶水马石头动物等障碍物，这是行业漏洞吗？有必要响应吗？"
   },
   {
     "query": "https://api.zhihu.com/questions/1890659265351501709",
@@ -82,10 +130,6 @@
   {
     "query": "https://api.zhihu.com/questions/1890472654609289929",
     "display_query": "如何评价2025年4月米哈游《原神》伊法立绘？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/1890419158094698040",
-    "display_query": "马斯克宣布将辞职，他辞职的最关键原因是什么？"
   },
   {
     "query": "https://api.zhihu.com/questions/1890431399649043010",
@@ -214,10 +258,6 @@
   {
     "query": "https://api.zhihu.com/questions/1890473404932515287",
     "display_query": "当我们用哲学进行自我疗愈的时候，哲学和心灵鸡汤的区别是什么？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/1888738951449264852",
-    "display_query": "长城为什么不造轿车而推出了重卡?"
   },
   {
     "query": "https://api.zhihu.com/questions/591766601",
