@@ -24,8 +24,8 @@
     "display_query": "久未联系的前同事，发来信息「兄弟，在吗？」，该如何回复？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1891075726767264722",
-    "display_query": "河北一地因交通财政补贴紧张，拟取消老年人免费乘坐公交车，如何看待此事？各地公交公司应该如何摆脱困境？"
+    "query": "https://api.zhihu.com/questions/1891040831986689345",
+    "display_query": "什么是对等关税？美国实施对等关税，谁最受伤？"
   },
   {
     "query": "https://api.zhihu.com/questions/1891042899120054294",
@@ -48,40 +48,80 @@
     "display_query": "惠誉下调中国主权信用评级，或受哪些因素影响？如何看待财政部的回应？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1890802717821207421",
-    "display_query": "杭州高二女生为解决雨天骑行难题发明“遮雨神器”获专利，如何评价此事？"
+    "query": "https://api.zhihu.com/questions/1890775674018554829",
+    "display_query": "如何评价冯小刚执导，赵丽颖主演的犯罪电影《向阳·花》？"
   },
   {
     "query": "https://api.zhihu.com/questions/1891092500611036501",
     "display_query": "重庆女生提醒「甲亢哥」坐轻轨时不文明行为「不要教孩子这样做」，网红的示范效应对孩子成长影响有多大？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1890775674018554829",
-    "display_query": "如何评价冯小刚执导，赵丽颖主演的犯罪电影《向阳·花》？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/1890332987599611726",
-    "display_query": "要是象类都灭绝，从化石能否推测出象类有长鼻子？"
+    "query": "https://api.zhihu.com/questions/1890802717821207421",
+    "display_query": "杭州高二女生为解决雨天骑行难题发明“遮雨神器”获专利，如何评价此事？"
   },
   {
     "query": "https://api.zhihu.com/questions/1890858732944069040",
     "display_query": "如何评价 2025 年 4 月米哈游《绝区零》1.6 卡池，扳机和朱鸢？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1891079837139039022",
-    "display_query": "如何评价张艺兴主演的电影《不说话的爱》？"
+    "query": "https://api.zhihu.com/questions/1891074753239950158",
+    "display_query": "请教一个计算机科学的基本问题，如何对比两个数据文件是否绝对完全100%一致？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1889062257268331342",
+    "display_query": "如何评价韩剧《苦尽柑来遇见你》大结局？"
   },
   {
     "query": "https://api.zhihu.com/questions/1889587174472659184",
     "display_query": "网传商飞拟推静音超音速飞机 C949，航程比协和长 50%，速度 1.6 马赫，在飞机中属于什么水平？"
   },
   {
+    "query": "https://api.zhihu.com/questions/1891166349503456613",
+    "display_query": "考研选择院校和导师也有「宁做鸡头不做凤尾」的说法吗，你会怎么选？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1891075726767264722",
+    "display_query": "河北一地因交通财政补贴紧张，拟取消老年人免费乘坐公交车，如何看待此事？各地公交公司应该如何摆脱困境？"
+  },
+  {
     "query": "https://api.zhihu.com/questions/443183648",
     "display_query": "《西游记》里有一集凤仙郡郡侯不敬上天，大家感觉天庭的做法对吗？都说说各自的观点？"
   },
   {
+    "query": "https://api.zhihu.com/questions/1891079837139039022",
+    "display_query": "如何评价张艺兴主演的电影《不说话的爱》？"
+  },
+  {
     "query": "https://api.zhihu.com/questions/1891399282659157189",
     "display_query": "智驾功能被过度营销了吗？在智驾使用上，新势力车企该如何提醒用户？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1888599018352894736",
+    "display_query": "用你现在的英语水平翻译这句话「He is a zero」，该怎么翻译？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890172844920521435",
+    "display_query": "你会不会觉得生活卡住了，为了不卡你做过什么抽象的事情？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/15667888990",
+    "display_query": "为什么茶树、咖啡树和可可树都独立进化出了咖啡因？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1891126118213445182",
+    "display_query": "河北邯郸一动物园有熊出逃，可能是哪些环节出现问题？若遇到熊要怎样做才安全？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/271338762",
+    "display_query": "如何评价演员惠英红？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/368599900",
+    "display_query": "你认为《哈利·波特》为什么会火遍全球？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1890332987599611726",
+    "display_query": "要是象类都灭绝，从化石能否推测出象类有长鼻子？"
   },
   {
     "query": "https://api.zhihu.com/questions/496248542",
@@ -112,28 +152,12 @@
     "display_query": "有没有让你觉得人工智能AI很恐怖的时候？"
   },
   {
-    "query": "https://api.zhihu.com/questions/271338762",
-    "display_query": "如何评价演员惠英红？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/15667888990",
-    "display_query": "为什么茶树、咖啡树和可可树都独立进化出了咖啡因？"
-  },
-  {
     "query": "https://api.zhihu.com/questions/1891435699338711791",
     "display_query": "韩国总统弹劾案获得通过，尹锡悦被罢免总统职务，对韩国政坛将有哪些影响？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1890172844920521435",
-    "display_query": "你会不会觉得生活卡住了，为了不卡你做过什么抽象的事情？"
-  },
-  {
     "query": "https://api.zhihu.com/questions/1890361089721594884",
     "display_query": "如何评价高达系列最新剧场版《机动战士高达：跨时之战》？"
-  },
-  {
-    "query": "https://api.zhihu.com/questions/368599900",
-    "display_query": "你认为《哈利·波特》为什么会火遍全球？"
   },
   {
     "query": "https://api.zhihu.com/questions/15271587917",
