@@ -11,7 +11,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 06 2025 04:31:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 06 2025 05:29:23 GMT+0800 (China Standard Time) -->
 
 1. [中国为什么能全球第一个反制美国对等关税？释放了哪些信号？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891827986178733863)
 1. [一张纸对折105次，宇宙就真的放不下了吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F428831824)
@@ -21,11 +21,10 @@
 1. [苹果股价遭遇重挫，若将成本转嫁给消费者，价格将增加 30% 至 40%，iPhone 会涨价吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891765548326548888)
 1. [每门科目年级前20，总分可能未达到年级前20吗?](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F11132670769)
 1. [怎么评价2025北京中考取消化学、生物、地理、历史，只保留数学、语文、英语、物理、体育、道德与法治？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F662904767)
-1. [缅甸强震已致 4 名中国公民遇难，目前救援进展如何？当地华人生活情况如何？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890009180531816320)
 1. [印度的种姓制度还有可能被废除吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F9661972875)
+1. [缅甸强震已致 4 名中国公民遇难，目前救援进展如何？当地华人生活情况如何？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890009180531816320)
 1. [如何评价知名网络主播「甲亢哥」Speed 于 4 月 5 日在深圳的直播？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891034650614428907)
 1. [美国征收关税对普通人最大的影响是什么？对美国人和中国人会有哪些不同？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891786918640969592)
-1. [WTA500 查尔斯顿站 1/4 决赛，郑钦文 0：2 亚历山德洛娃止步八强，怎么评价这一场比赛？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891679816706672553)
 1. [网络主播「曲曲大女人」偷税被罚 758 万，起到哪些警示作用？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890454842515875349)
 1. [四大一线城市约50%人口在租房，35岁以上租房群体占比创新高，透露哪些社会问题？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890718507672528892)
 1. [我为什么没法理解智驾的逻辑？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890708698667651381)
@@ -34,15 +33,17 @@
 1. [如何评价孙俪、罗晋主演的悬疑剧《乌云之上》？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891183467607323894)
 1. [为什么很少人去南美洲旅行?](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F33708191)
 1. [人们在 DOS 年代如何办公？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F36732601)
-1. [职场上有哪些表面看上去「专业到飞起」，实则「糊弄」的操作？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1888269883768272498)
 1. [罪案剧《棋士》中有哪些细思极恐的细节？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F15721910357)
-1. [中国联通上线 iPhone eSIM 网站，我们离普及 esim 还有多远？目前存在哪些难点？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890353242971530961)
+1. [职场上有哪些表面看上去「专业到飞起」，实则「糊弄」的操作？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1888269883768272498)
 1. [两千年后的人会如何看待现在像《魔法禁书目录》这样的优秀轻小说？会不会和我们现代人看待古典名著那样？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F4474241149)
+1. [中国联通上线 iPhone eSIM 网站，我们离普及 esim 还有多远？目前存在哪些难点？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890353242971530961)
 1. [《雍正王朝》中四阿哥要烧百官行述时，太子可不可以强行看？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1889493633562047522)
 1. [如何评价《崩坏：星穹铁道》 遐蝶 动画短片 「那安息的长夜」？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890019520275525901)
-1. [久未联系的前同事，发来信息「兄弟，在吗？」，该如何回复？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F637992366)
 1. [发现孩子很普通怎么办？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F412620700)
 1. [20 岁中国女生留学第 9 天跳楼身亡，遭恐吓深陷骗局不堪压力，留学生在海外要提高哪些防骗意识？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1889986059170963534)
+1. [久未联系的前同事，发来信息「兄弟，在吗？」，该如何回复？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F637992366)
+1. [黄霄雲方称通过合法途径获得华晨宇《烟火里的尘埃》的词曲著作权授权，音乐版权的合法授权途径有哪些？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890373988326299353)
+1. [WTA500 查尔斯顿站 1/4 决赛，郑钦文 0：2 亚历山德洛娃止步八强，怎么评价这一场比赛？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891679816706672553)
 1. [南京有什么有意思的地方？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F26961037)
 1. [墓志铭的记载一定比史书准确么？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F6654559925)
 1. [《权力的游戏》私生子之战，琼恩只有 2000 人，为何正面对抗小剥皮的 6000 大军？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F484268527)
