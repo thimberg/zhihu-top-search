@@ -11,7 +11,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 11 2025 11:10:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 11 2025 11:45:04 GMT+0800 (China Standard Time) -->
 
 1. [中方反制对美国征收 84% 关税，对日常生活会有什么影响？我们有哪些东西是依赖美国进口的？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893342200152159606)
 1. [美股全线跳水，道指重挫逾 1000 点，大型科技股全线下跌，特斯拉跌超 7%，如何解读美股行情？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893792294466990782)
@@ -19,22 +19,31 @@
 1. [石墨，为什么会成为美国加征关税中豁免的品种？中国在石墨产业有着怎么样的竞争力？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893317716779165173)
 1. [徐工集团为什么可以免费赞助《流浪地球 2》？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F581822066)
 1. [美国议员怀疑特朗普涉及内幕交易，呼吁调查，特朗普内幕交易的可能性有多大？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893592246479206329)
-1. [如何评价青少年台球比赛中子涵和马冬梅的表现？台球也有新手保护期吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891892529802229292)
+1. [笔记本电脑长期插着电源使用会对电池有影响吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F13653856946)
 1. [独居老人数量增加，日本约 4.2 万具遗体无人认领，为何日本有这么多独居老人？社会发展面临哪些问题？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1892637356860858687)
-1. [国家电影局回应美对华加征关税，将适度减少美国影片进口数量，将带来哪些影响？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893729842899411825)
+1. [如何评价青少年台球比赛中子涵和马冬梅的表现？台球也有新手保护期吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891892529802229292)
 1. [北京发布近十年首个全市大风橙色预警，11 日将迎来今年以来最强大风，大风形成原因有哪些？需要注意什么？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1892974057911182425)
 1. [如何看待 95 后老板称只招聘35岁以上员工，已有数百人咨询，曾创立「上四休三」制公司？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893577401637785658)
 1. [如何看待 2028 洛杉矶奥运会，女足参赛名额为 16 支队，男足则缩减至 12 支球队？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893636880987288393)
+1. [索尼 Xperia 1 VII 手机被曝 5 月发布，你用过索尼手机吗？你期待新机有哪些升级？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893084471630217232)
+1. [国家电影局回应美对华加征关税，将适度减少美国影片进口数量，将带来哪些影响？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893729842899411825)
 1. [网传 2025 福建省考笔试惊现 174 分考生，公考 174 分是什么水平？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891281886837442539)
-1. [既然解开bitlocker需要密钥，那Windows正常启动（无用户输入）时是从哪里获取到密钥的？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F10994180697)
-1. [日本的家纹有哪些讲究和历史？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F29587561)
-1. [4 月 10 日 12 时 1 分起，中方对美加征 84% 关税正式生效，目前各方反应如何？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893637479673848096)
-1. [如果《头文字D》在今天出续作，拓海要怎么改车才能用他的86跑赢SU7？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F14066039716)
 1. [手残玩家怎样从《魔兽争霸3》中获得快乐？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F352590086)
-1. [欧盟同意将原定于 4 月 15 日针对美国关税的反制措施暂停 90 天，将带来哪些影响？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893735356815336973)
+1. [足球世界里，一名球员踢到什么程度才算踢出了“统治力”？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F2617912754)
 1. [黄子韬公布做卫生巾进展，将以 1 分钱价格送出 50000 份试用，这会是一门好生意吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893592441459795132)
-1. [笔记本电脑长期插着电源使用会对电池有影响吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F13653856946)
+1. [欧盟同意将原定于 4 月 15 日针对美国关税的反制措施暂停 90 天，将带来哪些影响？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893735356815336973)
+1. [眼睛完全不近视的人，看星星、看路灯，是没有「芒」的吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F15602386746)
+1. [如果《头文字D》在今天出续作，拓海要怎么改车才能用他的86跑赢SU7？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F14066039716)
+1. [既然解开bitlocker需要密钥，那Windows正常启动（无用户输入）时是从哪里获取到密钥的？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F10994180697)
 1. [医托骗 1.68 米女子出国做增高手术，致正常腿断骨成 X 腿，损失该由谁来承担？断骨增高有哪些风险？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893631060744561623)
+1. [日本的家纹有哪些讲究和历史？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F29587561)
+1. [如何评价比亚迪汉L唐L上市发布会与定价策略？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893398572197708187)
+1. [为什么电视剧黄海冰版《隋唐英雄传》没有像老版《三国演义》那样大火?](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F660024589)
+1. [为什么很多人说「人生的容错率大到无法想象」？但有时候却觉得职场的容错率很低呢？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893262737137689621)
+1. [魏延的子午谷奇谋只需要向诸葛亮要几千兵马，他为什么不敢一试？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F508715218)
+1. [高速公路行驶时遇到团雾时开启雾灯和双闪哪个会更安全？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1890070326290933485)
+1. [你理想中的大平层应该是什么样子？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F386109513)
+1. [4 月 10 日 12 时 1 分起，中方对美加征 84% 关税正式生效，目前各方反应如何？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893637479673848096)
 1. [如何评价 OPPO Find X8 Ultra、X8s系列，OPhone 升级版都有哪些亮点？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893181477480539899)
 1. [德左明明在德涅斯特河右岸，为什么叫德左？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893331947855524443)
 1. [回农村创业的有前途吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F435625288)
@@ -88,7 +97,6 @@
 1. [哪本书的封面和内容反差最大，像「诈骗」一样骗你读了？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1892364433902236525)
 1. [9 岁女孩被老师砸伤案二审宣判，维持原判，涉事教师被判五年，起到哪些警示作用？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893629921546434305)
 1. [你见过最厚的教材是什么？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F657222062)
-1. [你理想中的大平层应该是什么样子？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F386109513)
 
 <!-- END -->
 
