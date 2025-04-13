@@ -1,0 +1,122 @@
+[
+  {
+    "query": "https://api.zhihu.com/questions/1894685996509000901",
+    "display_query": "北京儿童医院开设「拒绝上学门诊」10 个月，接诊近 1 万人次，反映了哪些问题？什么导致孩子拒绝上学？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/9049104276",
+    "display_query": "每年我们进口的石油不见减少 ，但是现在几乎一半的汽车都是新能源 那多出来的油到哪里去了？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1894669033174954110",
+    "display_query": "女生喉咙痛从就诊到去世仅 10 分钟，元凶是急性会厌炎，这种病有多凶险？有哪些早期症状？如何识别自救？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/10117107612",
+    "display_query": "刘强东开饭店时提高员工工资和待遇，由员工决定买菜和收入，为什么会被坑？同样的做法，胖东来为什么成功？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1893726755866501312",
+    "display_query": "多家银行宣布下调中长期存款利率，透露了哪些信息？降准降息窗口期要来了吗？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/13850795371",
+    "display_query": "中国为什么一个世界级的大湖都没有？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1894830232600537020",
+    "display_query": "商务部回应美豁免部分产品「对等关税」，美方修正单边错误做法的一小步，敦促彻底取消对等关税，如何解读？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1894383700495557425",
+    "display_query": "如何看待专家刘扬声说「世界上没有非工业化后再工业化成功的案例」？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/625757114",
+    "display_query": "为什么都觉得高中物理很难?"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1893587838706112083",
+    "display_query": "《棋士》大结局中淑华为什么给崔业鞠了一躬?"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1893743928819291765",
+    "display_query": "普通百姓的购买力需要增加多少才能把出口美国的产品消化掉？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1894723756477347087",
+    "display_query": "2025 年全国大学生英语竞赛考完了，难度怎么样？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/497476644",
+    "display_query": "如何评价古装玄幻大剧《无忧渡》？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1893202037736456615",
+    "display_query": "美国财政部长贝森特将美股崩盘归咎于 DeepSeek，而非特朗普的政策，如何看他这言论？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1893593382544191912",
+    "display_query": "你对《崩坏：星穹铁道》3.2 剧情中赛飞儿的出场和行为方式有何评价？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1894082179719460372",
+    "display_query": "如何看待短剧 AI 换脸女演员迪丽热巴？若未获得授权，制作方该承担哪些法律责任？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1891631147315884903",
+    "display_query": "对于识字量少的孩子，如何挑选不打击阅读信心的书？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/15751440910",
+    "display_query": "如何布置一个充满春意的工位？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/276905271",
+    "display_query": "真正的日本是什么样的?"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1891146889480623706",
+    "display_query": "可以向文献的作者发邮件问问题吗？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1894362527607019413",
+    "display_query": "参加第十六届大学生数学竞赛（决赛）是一种什么体验？如何评价今年的试题？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1894365746462700537",
+    "display_query": "阿根廷与中国续签货币互换协议，美国是否会采取相关行动？后续将如何发展？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/330064762",
+    "display_query": "为什么不开发使用炸药作为燃料的发动机？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/14813288519",
+    "display_query": "作为一个程序员你觉得是业务重要还是技术重要？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/13653856946",
+    "display_query": "笔记本电脑长期插着电源使用会对电池有影响吗？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1892367360477864522",
+    "display_query": "电视剧《我的后半生》好看吗？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/659472449",
+    "display_query": "我们为什么会拖延，拖延的根源是什么？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1892903924236796647",
+    "display_query": "为什么现在的喜剧总要走煽情路线？单纯的喜剧难道不好吗？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1891117336540439870",
+    "display_query": "你读过哪本像「开胃轻食」一样让人瞬间打起精神的书？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/1892256685093001120",
+    "display_query": "南宋属于金朝藩属国吗？"
+  }
+]
