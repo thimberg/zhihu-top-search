@@ -11,25 +11,38 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 19 2025 06:36:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 19 2025 07:31:23 GMT+0800 (China Standard Time) -->
 
 1. [腾讯宣布史上最大就业计划，三年新增 28000 校招岗位，背后有哪些考量？应届毕业生该怎样抓住机会？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896210569725444140)
-1. [三星李在镕痛失韩国首富，身家暴跌 37 亿美元，三星为什么掉队了？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895895622361510787)
-1. [索尼开始向玩家征求“最正宗地道”的PS5中文名，你会怎么给它取名？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896594200499287395)
 1. [警方通报轮胎高速路上狂奔后滚进服务区撞人，致 1 人身亡，事故责任将如何认定？被撞行人能获得赔偿吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896614718417889183)
+1. [三星李在镕痛失韩国首富，身家暴跌 37 亿美元，三星为什么掉队了？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895895622361510787)
 1. [外交部回应美国对中国船只征收港口停靠费，只会推高全球的海运成本，无法振兴美国的造船业，如何看待此事？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893734259916797306)
 1. [卤制品三巨头大幅关店，网友吐槽吃不起，为什么卤味这么贵？它的成本有多少？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896252145403126282)
-1. [《王者荣耀》宣布联动《哪吒之魔童闹海》将推出哪吒、敖丙等四位角色的联名皮肤，对此你有哪些期待？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895835058625017058)
-1. [不少年轻人流行用 iPhone 6 拍照，它有什么特别之处？是真的拍得好，还是一种炒作？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895446096324552357)
-1. [游戏葡萄表示国产中小型游戏缺乏全球现象级爆款，提出「中国游戏没有安全感」，如何理解这句话？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896579859976774695)
 1. [杭铁回应地铁口被吐槽像棺材，称设计灵感源于「虫洞」形象，如何看待这一设计？建筑设计如何保证大众接受度？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896489337639626376)
 1. [控糖 1 年男子减百斤年轻 20 岁，控糖对减肥的影响到底有多大？如果不控糖还能减肥成功吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893703711269807752)
-1. [霸王茶姬赴美上市，开盘首日涨超 15%，其为何在当下时点选择纳斯达克？市值能否超越蜜雪冰城?](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896353447198062209)
-1. [如何评价美剧《最后生还者》第二季？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893974213880153406)
+1. [不少年轻人流行用 iPhone 6 拍照，它有什么特别之处？是真的拍得好，还是一种炒作？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895446096324552357)
 1. [10 岁小朋友想向知乎的大朋友提问「为什么竹子是空心的」？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1892318455786624679)
+1. [C 语言如何实现面向对象？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F10113735007)
+1. [游戏葡萄表示国产中小型游戏缺乏全球现象级爆款，提出「中国游戏没有安全感」，如何理解这句话？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896579859976774695)
+1. [霸王茶姬赴美上市，开盘首日涨超 15%，其为何在当下时点选择纳斯达克？市值能否超越蜜雪冰城?](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896353447198062209)
 1. [8 个月女婴日常喂山药粉被饿成皮包骨进 ICU，当地回应未发现虐待，具体情况如何？如何判定是否虐待？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896479779705811155)
+1. [索尼开始向玩家征求“最正宗地道”的PS5中文名，你会怎么给它取名？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896594200499287395)
+1. [如何评价美剧《最后生还者》第二季？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893974213880153406)
 1. [英伟达 CEO 来华，罕见一改往常标志性黑色皮衣换上西服，传递出什么信息？其此次来华有什么不一样了？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896517074781696126)
 1. [为什么“能拿出30万的人”很少，但30万的车满大街都是？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1894494749538369680)
+1. [《王者荣耀》宣布联动《哪吒之魔童闹海》将推出哪吒、敖丙等四位角色的联名皮肤，对此你有哪些期待？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895835058625017058)
+1. [孩子说「纸质书没法随时查百科」，怎么回应？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891631147060027761)
+1. [为什么很多天上很有名气的神仙都怕孙悟空，而他们的坐骑或手下的小童一旦下界为妖，却不怕悟空？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891271477241827656)
+1. [新风空调宣传的换气、净化、制冷三合一，是刚需吗？比起空调搭配空气净化器，其一体化设计优势在哪？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896156510742108040)
+1. [5年了，为什么勇士管理层一直走既要冠军又要培养新人的建队路线？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F8778445875)
+1. [英特尔力推笔记本模块化，维修升级更简单，对此你有哪些看法，能否延长电脑的使用寿命？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895784664238617241)
+1. [人对时间的感知是怎样的？我们是否可以从心理层面最大化地「延长下班」或者从工作中找到快乐「缩短上班」？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1893264943635198323)
+1. [美国再次限制英伟达 H20 芯片出口中国，需要「无限期」申请许可证，对行业会有什么影响？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895790897251181904)
+1. [为什么年轻人宁愿在游戏里「搬砖」，也不愿加班赚「真」钱？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1894364795026780359)
+1. [历史上王献之抛弃了第一任妻子郗道茂，娶了公主，他是真的那么爱权贵吗？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F29151534)
+1. [如何评价2025年4月16日虚拟主播噶呜・古拉(Gawr Gura)宣布毕业？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895827480151032128)
+1. [中午饭点已到，该下班去吃饭了，领导还在办公室没走，我是该静悄悄的自己先走还是打个招呼呢？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895433932805214526)
+1. [如何评价《画江湖之不良人7：九幽玄天》的第5集？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896138712875775196)
 1. [LPL 2025 赛季第二赛段「连续奇迹团」iG 2:1 击败 JDG，如何评价这场比赛？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896652542508782183)
 1. [为什么日本小说流行西幻，中国小说流行修仙？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1888860787298239949)
 1. [外贸该不该向客户收样品费？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F421697869)
@@ -63,10 +76,8 @@
 1. [2025 年新国补政策下怎么买空调最划算，既能省钱又兼顾品质？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896157251867244284)
 1. [高智商的脑子是怎样的？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F10656184978)
 1. [高三生怎么能在最后关头稳住心态？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1894335239490364052)
-1. [孩子说「纸质书没法随时查百科」，怎么回应？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891631147060027761)
 1. [计算机本科生花大量时间写编译器，操作系统是不是不务正业？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F321433640)
 1. [如何评价那刻夏和阿格莱雅之间的情感？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895897080037343660)
-1. [如何评价2025年4月16日虚拟主播噶呜・古拉(Gawr Gura)宣布毕业？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895827480151032128)
 
 <!-- END -->
 
