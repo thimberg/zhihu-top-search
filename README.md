@@ -11,25 +11,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 22 2025 04:34:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 22 2025 05:31:04 GMT+0800 (China Standard Time) -->
 
 1. [小米 YU7 取消传统仪表盘并采用一体式环绕 PHUD，这种设计对未来的汽车内饰发展有何影响？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896500745999737931)
-1. [美元指数跌破 99 关口，为 2022 年 4 月以来首次，这意味着什么？对国际贸易将产生哪些影响？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897605848336954287)
-1. [人应该在多少岁认清自己是普通人的事实，而果断见好就收，不再为那假想的“前途”“大富大贵”疲于奔命？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896541632217719189)
 1. [宁德时代推出第二代神行超充电池，可实现「充电 5 分钟，续航超 520 公里」，将给行业带来哪些变化？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897674344219529643)
-1. [体育生左膝长骨瘤被医生错切右膝医疗纠纷案 4 月 22 日开庭，其母亲称不接受和解，该案将如何判决？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897349214100480517)
+1. [人应该在多少岁认清自己是普通人的事实，而果断见好就收，不再为那假想的“前途”“大富大贵”疲于奔命？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896541632217719189)
+1. [为什么这两年的国产手机都在主动兼容苹果？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897598598134354905)
+1. [美元指数跌破 99 关口，为 2022 年 4 月以来首次，这意味着什么？对国际贸易将产生哪些影响？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897605848336954287)
 1. [京东证实刘强东亲自送外卖，这一举动是为了向外界传递哪些信息？京东强势入局外卖会激发行业哪些变革？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897746808920306842)
 1. [2025 年多哈世乒赛国乒参赛名单公布，王楚钦、孙颖莎领衔、林诗栋等在列，如何评价这一阵容？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897768585167856545)
-1. [为什么这两年的国产手机都在主动兼容苹果？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897598598134354905)
+1. [体育生左膝长骨瘤被医生错切右膝医疗纠纷案 4 月 22 日开庭，其母亲称不接受和解，该案将如何判决？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897349214100480517)
 1. [美元指数跌破 99 关口，金价再狂飙，创历史新高，发生了什么？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897608826661872243)
 1. [为什么国际空间站的形状看着比中国空间站乱很多？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897004174085973298)
 1. [为什么地铁可以大段甚至全部建造在地下然而城市快速路就不这么做?](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F466038688)
 1. [一男子试驾撞毁 5 辆豪车，竟是为了让 4S 店雇佣自己，最终构成寻衅滋事罪，如何从法律角度解读？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897353432836317854)
 1. [如何看待媒体转发的视频「剑桥博士用量子力学解释为什么建议大家不要算命」？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896659520786257018)
-1. [对于正在接受足球训练的孩子们来说，到底是学习重要还是足球重要？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891960374623991652)
 1. [你如何评价胖东来?](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F494246532)
-1. [网友拍到黄河壶口瀑布处黄河水不黄了，此次「清流」是黄河史上记载第 45 次清澈，黄河水为何变清澈了？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896883591805367674)
 1. [如何证明任意一组勾股数的乘积肯定是60的倍数？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896886358745805689)
+1. [网友拍到黄河壶口瀑布处黄河水不黄了，此次「清流」是黄河史上记载第 45 次清澈，黄河水为何变清澈了？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1896883591805367674)
+1. [对于正在接受足球训练的孩子们来说，到底是学习重要还是足球重要？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1891960374623991652)
 1. [历史上通过窃据别国领土建立起国家的外来族群有哪些？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F661532560)
 1. [76 岁老人搭建 1200 平米三层木楼，全程没用一颗铁钉，这真的能实现吗？背后有哪些建筑技艺？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1897347242664358651)
 1. [为什么中国茶叶不能像咖啡豆一样磨成粉，直接喝了？](https://www.zhihu.com/search?q=https%3A%2F%2Fapi.zhihu.com%2Fquestions%2F1895171499788304397)
