@@ -44,12 +44,12 @@
     "display_query": "方济各去世，谁会是下一任教宗？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1895553554913137801",
-    "display_query": "如果一个中国人能在足球踢出姚明的成就，那他历史地位比姚明更高吗？"
+    "query": "https://api.zhihu.com/questions/1896626988447391996",
+    "display_query": "佛山电翰不打螺丝后做视频挣几百万，他的视频为什么这么火？他的模式能复制吗？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1897041127921653178",
-    "display_query": "如何看待蔚来萤火虫的市场前景？"
+    "query": "https://api.zhihu.com/questions/1895553554913137801",
+    "display_query": "如果一个中国人能在足球踢出姚明的成就，那他历史地位比姚明更高吗？"
   },
   {
     "query": "https://api.zhihu.com/questions/1898004011774342680",
@@ -60,20 +60,20 @@
     "display_query": "北京地铁一男子嫌弃邻座打工人脏不停辱骂，警方通报「已行拘」，涉事男子将承担哪些法律责任？"
   },
   {
-    "query": "https://api.zhihu.com/questions/1896626988447391996",
-    "display_query": "佛山电翰不打螺丝后做视频挣几百万，他的视频为什么这么火？他的模式能复制吗？"
+    "query": "https://api.zhihu.com/questions/1897041127921653178",
+    "display_query": "如何看待蔚来萤火虫的市场前景？"
   },
   {
     "query": "https://api.zhihu.com/questions/1897611084057264931",
     "display_query": "日本将耗资 996 亿打造全球最大驱逐舰，为何建造成本如此高昂？该舰预计将于何时建造完成？"
   },
   {
-    "query": "https://api.zhihu.com/questions/428859226",
-    "display_query": "怎么评价《咒术回战》中的夏油杰？"
-  },
-  {
     "query": "https://api.zhihu.com/questions/1897396503166838751",
     "display_query": "消息称宋涛 100 万投资米哈游，投资回报超过 2.5 万倍，如何评价宋涛这笔投资？"
+  },
+  {
+    "query": "https://api.zhihu.com/questions/428859226",
+    "display_query": "怎么评价《咒术回战》中的夏油杰？"
   },
   {
     "query": "https://api.zhihu.com/questions/1895842686189168614",
